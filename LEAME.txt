@@ -1,0 +1,17 @@
+==============================================================================
+= ALONSO BUENO HERRERO
+= INTELIGENCIA DE NEGOCIO - CURSO 2020/21
+==============================================================================
+
+
+1. Para probar algunos scripts es necesario tener los ficheros train y test 
+   en formato CSV (se pueden descargar en kaggle, no los he añadido para que 
+   no pese mucho el ZIP que he entregado).
+
+2. Para probar el Experimento 4 es necesario tener los pesos de vgg16 descargados. 
+   Están disponibles en kaggle.
+
+La referencia a kaggle está en la memoria de la práctica, sección "Referencias".
+
+
+--
